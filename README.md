@@ -1,14 +1,14 @@
-##How to work
+## How to work
 
-###Clone a repository:
+### Clone a repository:
 
 git clone https://github.com/papyrinIS/kameleoon.git
 ___
-###Install dependencies:
+### Install dependencies:
 
 yarn
 ___
-###Run app:
+### Run app:
 
 yarn start
 ___
