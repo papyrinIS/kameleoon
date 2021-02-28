@@ -1,0 +1,25 @@
+.button {
+  width: 95px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color:#ffffff;
+}
+
+.primary {
+  background: #2EE5AC;
+  transition: .3s ease;
+  &:hover{
+    background: #3decb6;
+  }
+}
+
+.draft {
+  background: #7D7D7D;
+  transition: .3s ease;
+  &:hover{
+    background: #979494;
+  }
+}
